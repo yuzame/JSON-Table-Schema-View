@@ -13,8 +13,6 @@
     "flux": "^2.0.1",
     "github-markdown-css": "^2.0.8",
     "keymirror": "^0.1.1",
-    "lunr": "^0.5.9",
-    "lunr-languages": "0.0.4",
     "object-assign": "^2.0.0",
     "purecss": "^0.6.0",
     "react": "^0.13.2"
